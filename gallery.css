@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 155px 155px 155px;
+}
+
+.grid > div
+{
+    display: inline-block;
+    border: none;
+}
+
+
+
